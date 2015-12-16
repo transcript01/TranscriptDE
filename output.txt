@@ -1,0 +1,20 @@
+Warnung: Fehler beim Bereitstellen auf 'http://127.0.0.1:8182/shunra/api/emulation/tokens?all=true', Rückg.code=7.
+Fehler: Fehler beim Abrufen des NV-Emulations-Handles.
+Vuser-Skript gestartet um : 16.12.2015 11:34:27
+Aktion vuser_init wird gestartet.
+Aktion vuser_init wird beendet.
+Vuser wird ausgeführt...
+Iteration 1 wird gestartet.
+Aktion Action wird gestartet.
+Action.c(3): Legen Sie den web_service_set_option-Parameterwert "DoNotValidateSecurity" auf "true" fest
+Action.c(3): web_service_set_option war erfolgreich.
+Action.c(6): Legen Sie den web_service_set_option-Parameterwert "DoNotValidateSecurity" auf "B" fest
+Action.c(6): Warnung:Der Wert B ist in der angegebenen Option web_service_set_option DoNotValidateSecurity ungültig.
+Action.c(9): Legen Sie den web_service_set_option-Parameterwert "A" auf "B" fest
+Action.c(9): Warnung:Das A-Argument ist in web_service_set_option ungültig.
+Aktion Action wird beendet.
+Iteration 1 wird beendet.
+Vuser-Ausführung wird beendet...
+Aktion vuser_end wird gestartet.
+Aktion vuser_end wird beendet.
+Vuser-Ausführung beendet.

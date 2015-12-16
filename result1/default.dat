@@ -1,0 +1,9 @@
+{
+	"script" : "WebServices1.usr",
+	"emulationParameters" : "",
+	"description" : "Descr",
+	"runErrorCode" : "0",
+	"int" : "passed",
+	"runType" : "",
+	"startAnalysisTime" : "0"
+}
